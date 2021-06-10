@@ -4,8 +4,8 @@
 #FileName     :  Install-Docker-on-Centos/RHEL.sh
 #Purpose      :  Jenkins Install on RedHat/CentOS Linux
 #Version      :  0.1
-#Author       :  Anand Reddy
-#Created      :  29/12/18
+#Author       :  Dhanyashree S
+#Created      :  10/06/21
 ###############################################################
 
 #sudo su -
